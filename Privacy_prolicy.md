@@ -51,4 +51,4 @@ We use the following third-party services to power our app:
 ## 7. Contact Us
   
   - For any questions regarding this Privacy Policy or your data, please contact us at:
-fanzhou@iastate.edu
+icpclab@gmail.com
