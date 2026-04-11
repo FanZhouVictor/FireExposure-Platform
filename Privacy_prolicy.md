@@ -1,10 +1,10 @@
-Privacy Policy for **Firefighter Safety Exposure Hub**
+Privacy Policy for **Firefighter Safety Data Hub**
 
 Last Updated: March 10, 2026
 
 ## 1. Introduction
 
-Welcome to the Firefighter Safety Exposure Hub. We value your privacy and are committed to protecting your personal data. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
+Welcome to the Firefighter Safety Data Hub. We value your privacy and are committed to protecting your personal data. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
 
 
 ## 2. Data We Collect
@@ -13,7 +13,7 @@ We collect certain information to provide and improve our services, specifically
 
   - Personal Information: We may collect your name and email address to manage your account and communicate research-related updates.
 
-  - Location Data: With your permission, we collect GPS or coarse location data to track exposure events and environmental factors relevant to firefighter safety.
+  - Location Data: With your permission, we collect GPS or accurate location data to track exposure events and environmental factors relevant to firefighter safety.
 
   - Identifiers: We may collect device-specific identifiers through AWS Cognito to facilitate secure authentication and account management.
 
